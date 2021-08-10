@@ -1,0 +1,23 @@
+.pagina{
+    background-color: #eaeaea;
+}
+
+.titulo{
+    color: #2e1c2b;
+    text-align: center;
+}
+
+.categoria{
+    color: #4a1942;
+    text-align: center;
+
+}
+
+.texto{
+    color: #050404; 
+    text-align: center
+}
+
+.imagem{
+    text-align: center;
+}
