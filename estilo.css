@@ -5,6 +5,7 @@
 .titulo{
     color: #2e1c2b;
     text-align: center;
+    text-shadow: 2px 2px 5px #2e1c2b;
 }
 
 .categoria{
@@ -23,5 +24,4 @@ img{
     margin-left: auto;
     margin-right: auto;   
     border-radius: 8px;  
-
 }
